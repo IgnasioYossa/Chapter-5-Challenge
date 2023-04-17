@@ -1,0 +1,159 @@
+.navbar-brand{
+    padding-left: 5%;
+}
+.navbaratas{
+    background-color: rgba(0, 0, 0, 0.5)!important;
+}
+.section1{
+    background-image: url(/images/main-bg.jpg);
+    text-align: center;
+    background-size: cover;
+    color: white;
+    height: 1000px;
+}
+h1{
+    font-size: 80px;
+    font-weight: bold;
+}
+.lead{
+    font-size: 36px;
+}
+.jumbotron{
+    background-color: transparent;
+    padding-top: 15rem;
+}
+.btn-play-now{
+    background-color: rgba(238, 178, 38, 0.945);
+    color: black;
+    border-color: transparent;
+    font-weight: bold;
+    font-size: 16px;
+    width: 35vh;
+    height: 7vh;
+    padding-top: 0.7rem;
+}
+.THESTORY{
+    text-align: center;
+    font-size: 12px;
+    padding-top: 12rem;
+}
+.section2{
+    height: 1000px;
+    padding-top: 5rem;
+    background-image: url(/images/the-games-bg.jpg);
+    color: white;
+    background-size: cover;
+}
+#carouselExampleIndicators li{
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+}
+.carousel-indicators li{
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+}
+.section3{
+    height: 800px;
+    min-height: 100vh;
+    background-image: url(/images/features.jpg);
+    color: white;
+    background-size: cover;
+}
+.kolom{
+    padding-top: 10rem;
+    padding-right: 15rem;
+}
+.LIST{
+    color: white;
+    padding-top: 3rem;
+}
+.p-features{
+    color: orange;
+}
+.section4{
+    height: 1000px;
+    background-image: url(/images/requirements.png);
+    color: white;
+    background-size: cover;
+    padding-top: 8rem;
+}
+.table{
+    height: 300px;
+    width: 600px;
+}
+td{
+    color: orange;
+}
+.p-requirement{
+    color: white;
+}
+.page-4-title{
+    text-align: center;
+}
+.container-page-4{
+    padding-top: 4rem;
+}
+.btn-see-more{
+    background-color: rgba(238, 178, 38, 0.945);
+    color: black;
+    border-color: transparent;
+    font-weight: bold;
+    font-size: 16px;
+    width: 35vh;
+    height: 7vh;
+    padding-top: 0.7rem;
+}
+.section5{
+    height: 1000px;
+    background-image: url(/images/top-score-bg.png);
+    color: white;
+    background-size: cover;
+    padding-top: 8rem;
+}
+.top-score{
+    margin-top: 20rem;
+}
+.card{
+    background-color: rgb(36, 35, 35);
+    margin-top: 3rem;
+    height: 30vh;
+    width: 70vh;
+}
+.card-header{
+    color: orange;
+}
+.card1{
+    margin-left: 4rem;
+}
+
+.card3{
+    margin-left: 3rem;
+}
+.newsletter{
+    height: 1000px;
+    background-image: url(/images/newsletter.png);
+    color: white;
+    background-size: cover;
+    padding-top: 8rem;
+}
+.btn-subsribe{
+    background-color: rgba(238, 178, 38, 0.945);
+    color: black;
+    border-color: transparent;
+    font-weight: bold;
+    font-size: 16px;
+    width: 35vh;
+    height: 5.5vh;
+}
+.navbarbawah{
+    color: white;
+}
+.copyright{
+    margin-left: 3rem;
+}
+h2{
+    font-size: 36px;
+    font-weight: bold;
+}

@@ -1,0 +1,139 @@
+/* .computerimg{
+    height: 92px;
+    width: 128px;
+    left: 382px;
+    top: 267px;
+    border-radius: 0px;
+    margin-top: 3rem;
+} */
+.logo{
+    margin-top: 1rem;
+    width: 60px;
+    height: 60px;
+}
+.title{
+    margin-top: 1rem;
+}
+.img-container{
+    left: 360px;
+    top: 240px;
+    width: 180px;
+    height: 160px;
+    border-radius: 30px;
+    margin-top: 3rem;
+}
+.img-container:hover{
+    background-color: #C4C4C4;
+}
+.img-container img{
+    width: 80px;
+    height: 60px;
+    margin: 56px 0 0 47.5px;
+}
+.back{
+    color:#F9B23D;
+    height: 87px;
+    width: 55px;
+    left: 37px;
+    top: 12px;
+    border-radius: nullpx;
+    font-family: Open Sans;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 98px;
+    letter-spacing: 0.1em;
+    text-align: left;
+}
+body{
+    background-color: #9C835F;
+    text-align: center;
+    color: #F9B23D;
+}
+.vs{
+    margin-top: 12rem;
+    margin-right: 4rem;
+    font-weight: 700;
+    font-size: 144px;
+    font-family: 'Open-Sans';
+    color: #BD0000;
+}
+.rectangle:hover{
+    background-color: #C4C4C4;
+}
+.refresh{
+    margin-top: 16rem;
+}
+ 
+.img-container.selected{
+    background-color: #C4C4C4;
+    border-radius: 30px;
+    width: 180px;
+    height: 160px;
+    /* height: 92px;
+    width: 128px;
+    left: 382px;
+    top: 267px; */
+    
+}
+
+/* .computerimg.selected2{
+    background-color: #C4C4C4;
+    border-radius: 30px;
+    height: 92px;
+    width: 128px;
+    left: 382px;
+    top: 267px;
+    margin-top: 3rem;
+} */
+.win {
+    background-color: #4C9654;
+    color: white;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    transform: rotate(-28.87deg);
+    width: 271.11px;
+    height: 166.93px;
+    border-radius: 10px;
+    margin-left: 3rem;
+}
+.lose {
+    background-color: #4C9654;
+    color: white;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    transform: rotate(-28.87deg);
+    width: 271.11px;
+    height: 166.93px;
+    border-radius: 10px;
+    margin-left: 3rem;
+}
+.tie {
+    background-color:#035B0C;
+    color: white;
+    align-items: center;
+    text-align: center;
+    justify-content: first baseline;
+    font-size: 60px;
+    transform: rotate(-28.87deg);
+    width: 271.11px;
+    height: 166.93px;
+    border-radius: 10px;
+    margin-left: 3rem;
+}
+
+.playCom{
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+}
